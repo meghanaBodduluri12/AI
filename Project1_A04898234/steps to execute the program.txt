@@ -1,0 +1,11 @@
+* Download Java Development Kit8 from the link provided here https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+* Download the Netbeans IDE from the link provided here
+https://netbeans.org/downloads/
+* Open Netbeans and select file in the menu available at left top corner
+* Select open project from menu list and select the file provided
+
+
+
+* Select the project and double click to open and build the  project by selecting  play button available in menu above.
+* Provide the inputs required from user in the output panel available below.
+* Refer the sample output mentioned in report.
